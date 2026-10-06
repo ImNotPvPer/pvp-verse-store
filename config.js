@@ -1,1 +1,1 @@
-window.PVPVERSE_CONFIG={supabaseUrl:'https://oahuigpkwsvmfcvijuud.supabase.co',supabasePublishableKey:'sb_publishable_6CErRo83kyGGvnIeA3zbVA_HeTZS6jv',discordUrl:'https://discord.gg/pvp-verse-1502221994765189130',serverAddress:'pvpverse.softhost.fun'};
+window.PVPVERSE_CONFIG={supabaseUrl:'https://oahuigpkwsvmfcvijuud.supabase.co',supabasePublishableKey:'sb_publishable_6CErRo83kyGGvnIeA3zbVA_HeTZS6jv',functionsUrl:'https://oahuigpkwsvmfcvijuud.supabase.co/functions/v1',discordUrl:'https://discord.gg/pvp-verse-1502221994765189130',serverAddress:'pvpverse.softhost.fun'};
